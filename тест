@@ -1,0 +1,8 @@
+WeatherDiary/
+├── src/
+│   └── weather_diary.py
+├── data/
+│   └── weather_records.json
+├── .gitignore
+├── README.md
+└── requirements.txt
